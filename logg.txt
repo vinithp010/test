@@ -1,8 +1,0 @@
-Processing by SprintsController#show as JSONAPI
-Processing by SprintsController#index as JSONAPI
-Processing by SprintsController#show as JSONAPI
-Processing by SprintsController#index as JSONAPI
-Processing by SprintsController#show as JSONAPI
-Processing by SprintsController#call as JSONAPI
-Processing by SprintsController#index as JSONAPI
-Processing by SprintsController#call as JSONAPI
